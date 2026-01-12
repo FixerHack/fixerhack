@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=FixerHack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FixerHack&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+<img src="https://streak-stats.demolab.com/?user=FixerHack&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </td>
 </tr>
 <tr>
