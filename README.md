@@ -166,13 +166,13 @@ me.say_hi()
   <a href="https://github.com/FixerHack">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/FixerHack">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:craftfixer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://www.instagram.com/fixerhack?igsh=amR2cXdnNXRzODc4">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
