@@ -12,32 +12,8 @@
   <img width="98%" src="https://github-profile-trophy.vercel.app/?username=FixerHack&row=4&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=FixerHack&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com/?user=FixerHack&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FixerHack&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
-</td>
-</tr>
-</table>
-
----
-
-### 📊 Profile Views & Activity
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FixerHack&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FixerHack&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=3A86FF&point=FFD700" />
 </p>
 
 ---
@@ -203,37 +179,6 @@ me.say_hi()
 
 ---
 
-## 💼 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%">
-<a href="https://github.com/FixerHack/TGC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FixerHack&repo=TGC&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/FixerHack/PTPanel">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FixerHack&repo=PTPanel&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/FixerHack/TGclientbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FixerHack&repo=TGclientbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/FixerHack/WhatsappBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FixerHack&repo=WhatsappBot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" />
-</a>
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 Working on advanced Telegram bot solutions
@@ -241,20 +186,6 @@ me.say_hi()
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about Telegram bots, web automation, or security tools
 - ⚡ Fun fact: I love turning complex problems into simple solutions
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░   48.5%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░   32.1%
-TypeScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   14.6%
-Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░    2.9%
-Other        30 mins         ░░░░░░░░░░░░░░░░░░░░░    1.9%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -269,12 +200,6 @@ Other        30 mins         ░░░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" />
 </p>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/FixerHack/fixerhack/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
